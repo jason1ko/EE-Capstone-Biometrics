@@ -60,6 +60,9 @@ Experiments were performed on six datasets:
 - **YTF dataset**: Lower performance due to low resolution  
 
 Cosine similarity generally outperformed KL divergence.
+- trained to separate identities using inner products
+- scale-invariant, and robust to variations
+- KL divergencer equires extra normalization, sensitive to small noisy components
 
 ---
 
